@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println("Enter your age");
 
+
         int Age = in.nextInt();
 
         if (Age >= 21){
